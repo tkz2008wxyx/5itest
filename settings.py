@@ -1,0 +1,1 @@
+UI_WAIT_TIME = 5
